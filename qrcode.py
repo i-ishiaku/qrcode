@@ -1,6 +1,6 @@
 import qrcode as qr
 import image
-# example data
+# a variable to take user input
 data = input("Please leave a message: ")
 # output file name
 filename = "message.png"
